@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+   justify-content: space-around;
+}
+
+.logo{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.links{
+   display: flex;
+   flex-direction: row;
+   gap: 20px;
+   justify-content: space-between;
+}
