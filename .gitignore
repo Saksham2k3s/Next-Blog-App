@@ -17,7 +17,7 @@
 /build
 
 #Serect
-.env
+.env*
 
 # misc
 .DS_Store
